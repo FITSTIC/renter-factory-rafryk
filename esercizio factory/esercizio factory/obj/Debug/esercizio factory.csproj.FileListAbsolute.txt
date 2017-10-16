@@ -1,0 +1,6 @@
+C:\Users\raffaele.balzani\Desktop\progetti c#\esercizio factory\esercizio factory\bin\Debug\esercizio factory.exe.config
+C:\Users\raffaele.balzani\Desktop\progetti c#\esercizio factory\esercizio factory\bin\Debug\esercizio factory.exe
+C:\Users\raffaele.balzani\Desktop\progetti c#\esercizio factory\esercizio factory\bin\Debug\esercizio factory.pdb
+C:\Users\raffaele.balzani\Desktop\progetti c#\esercizio factory\esercizio factory\obj\Debug\esercizio factory.csprojResolveAssemblyReference.cache
+C:\Users\raffaele.balzani\Desktop\progetti c#\esercizio factory\esercizio factory\obj\Debug\esercizio factory.exe
+C:\Users\raffaele.balzani\Desktop\progetti c#\esercizio factory\esercizio factory\obj\Debug\esercizio factory.pdb
